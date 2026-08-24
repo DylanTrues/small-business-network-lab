@@ -1,3 +1,7 @@
+# Switch running configuration
+# Project: Small Business Network Lab
+# Captured with: show running-config
+
 Switch#show running-config
 Building configuration...
 
